@@ -33,7 +33,7 @@ This document describes the use case diagram representing the main interactions 
 
 5. **Make Payment** 
    - Performed by: User, Host
-   - Description: Secure transaction with cerely.
+   - Description: Secure transaction with Stripe,or paypal.
 
 ---
 
