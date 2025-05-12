@@ -20,7 +20,7 @@ This document outlines the detailed requirements and technical specifications fo
 ```json
 {
   "first_name": "John",
-  "last_name": "Doe",
+  "last_name": "Dam",
   "email": "john@example.com",
   "password": "StrongPass123!",
   "role": "guest"
